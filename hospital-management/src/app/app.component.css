@@ -1,0 +1,16 @@
+.nav-link {
+    border-style: double;
+    border-radius: 5px;
+    background-color: rgb(231, 220, 169);
+}
+
+.navbar-nav {
+    width: 100%;
+    background-color:rgb(208, 240, 229)
+}
+
+.nav-item {
+    width: 14%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
